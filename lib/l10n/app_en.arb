@@ -1,0 +1,17 @@
+{
+  "startTitle":"Start Your Journey",
+  "startContent":"Access more than 30000 movies in various language with easy and simple and read and watch anywhere any device",
+  "forBook": "With Bloc",
+  "forMovies": "With Provider",
+  "drawerTitle":"Choose your prefer category",
+  "home":"Home",
+  "movies":"Movies",
+  "series":"Series",
+  "welcomeText":"Welcome Guys,What want to search?",
+  "hint":"Search Movies...",
+  "popular":"  Popular Movies",
+  "topRate":"  TopRate Movies",
+  "popularSeries":"  Popular Series",
+  "topRateSeries":"  TopRate Series",
+  "seeAll":"SeeAll  "
+}
